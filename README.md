@@ -47,10 +47,10 @@ AI-integrated financial tools, and decentralized solutions.
 
 ## Connect
 
-[Website](https://hassanc.dev)  
-[LinkedIn](https://linkedin.com/in/muhammad-hassan-c-657545362)  
+[LinkedIn](https://www.linkedin.com/in/muhammad-hassan-c-657545362)  
 [GitHub](https://github.com/Shifrozy)  
-[X (Twitter)](https://x.com/Shifrozy)  
+[X (Twitter)](https://x.com/c615691)  
+[Telegram](https://t.me/Ex3hassan)  
 
 ---
 
