@@ -3,8 +3,8 @@
 ### Software Engineer & Blockchain Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?color=4ADE80&size=18&lines=Automated+Trading+Bots;Blockchain+%26+DeFi;AI-Powered+Apps;Modern+Web+Apps" />
-<a href="https://rankistan.dev/#Shifrozy">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FShifrozy&style=for-the-badge" alt="Rankistan rank badge">
+<a href="https://rankistan.dev/#MuhammadHassanC">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMuhammadHassanC&style=for-the-badge" alt="Rankistan rank badge">
 </a>
 
 ---
@@ -51,7 +51,7 @@ AI-integrated financial tools, and decentralized solutions.
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-c-657545362)  
-[GitHub](https://github.com/Shifrozy)  
+[GitHub](https://github.com/MuhammadHassanC)  
 [X (Twitter)](https://x.com/c615691)  
 [Telegram](https://t.me/Ex3hassan)  
 
